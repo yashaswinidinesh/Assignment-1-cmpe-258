@@ -1,4 +1,4 @@
-# CMPE 258 - Assignment 1: AI/ML Projects
+# CMPE 258 - Assignment 1:
 
 **Author:** Yashaswini Dinesh  
 **Course:** CMPE 258 - Deep Learning  
