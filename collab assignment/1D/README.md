@@ -1,7 +1,7 @@
 # Assignment 1D: MNIST Neural Network Classifier
 
 **Author:** Yashaswini Dinesh  
-**Demo Video:** [YouTube Link](https://youtu.be/VIDEO_ID_1D)
+
 
 ---
 
