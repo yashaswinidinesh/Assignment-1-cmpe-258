@@ -10,7 +10,8 @@
 
 | Assignment | Description | Demo Video |
 |------------|-------------|------------|
-| 1A | Multimodal AI with Google Gemini | [Watch Demo](https://www.youtube.com/watch?v=IjBQ1fu7_zc) |
+| 1A | Multimodal AI with Google Gemini | [Watch Demo]()
+|
 | 1B | Full Stack Web App (Antigravity) | [Watch Demo](https://youtu.be/VIDEO_ID_HERE) |
 | 1C | Flutter Mobile App (Antigravity) | [Watch Demo](https://youtu.be/VIDEO_ID_HERE) |
 | 1D | MNIST Neural Network Classifier | [Watch Demo](https://youtu.be/VIDEO_ID_HERE) |
